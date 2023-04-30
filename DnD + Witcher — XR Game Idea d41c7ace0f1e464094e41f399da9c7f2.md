@@ -1,5 +1,3 @@
-🎮 Hi my name is Carl and I love video games ⚔️
-
 # DnD + Witcher — XR Game Idea
 
 The D&D + The Witcher Rehab XR Game GDD will serve as a guide for the development team, helping them to stay focused on delivering a cohesive and engaging experience. The GDD will be updated and revised as the game development process progresses to ensure that the final product meets our goals and objectives.
